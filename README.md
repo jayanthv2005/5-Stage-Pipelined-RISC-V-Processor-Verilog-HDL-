@@ -33,11 +33,11 @@ docs → Architecture documentation
 #Architecture Diagrams
 
 # Overall Processor Block Diagram:
-![5-Stage RISC-V Block Diagram](docs/images/RISC%20architecture.jpeg)
+![5-Stage RISC-V Block Diagram](docs/RISC%20architecture.jpeg)
 
 
 # Pipeline Stages (IF–ID–EX–MEM–WB):
-![Pipeline Stages](docs/images/Pipeline%20Stages.jpeg)
+![Pipeline Stages](docs/Pipeline%20Stages.jpeg)
 
 # Forwarding & Hazard Detection Unit:
-![Forwarding and Hazard Unit](docs/images/Hazard%20Unit.jpeg)
+![Forwarding and Hazard Unit](docs/Hazard%20Unit.jpeg)
