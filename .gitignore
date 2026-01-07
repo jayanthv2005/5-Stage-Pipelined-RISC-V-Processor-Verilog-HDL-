@@ -1,0 +1,30 @@
+# Simulation outputs
+*.vcd
+*.fst
+sim_build
+a.out
+
+# FPGA tools (Vivado / Quartus)
+*.jou
+*.log
+*.wdb
+*.runs/
+*.cache/
+*.hw/
+*.xpr
+*.qsf
+*.qpf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Generated binaries
+*.hex
+*.bin
+
+# Build folders
+build/
+tmp/
