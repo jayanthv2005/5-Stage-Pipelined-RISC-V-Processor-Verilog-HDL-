@@ -18,9 +18,15 @@ Pipeline Stages:
 | MEM | Data Memory Access |
 | WB | Write Back |
 
- Verification
+ Verification:
 - SystemVerilog testbench
 - Simulated using Icarus Verilog
 - Waveforms using GTKWave
 - GitHub Actions CI for regression testing
+  
+Directory Structure:
+src/rtl → RTL modules
+tb → Testbench
+sim → Simulation scripts
+docs → Architecture documentation
 
